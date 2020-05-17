@@ -1,5 +1,7 @@
 # Learning about Webpack
 
+To get a better understanding of how to configure webpack, I created this repo to play around and explained a few concepts here to enforce the learning and as a reminder for myself.
+
 Webpack is a static module bundler. It creates a dependency graph by the relationships between files that are created with 'import' and 'require' statements. It uses this to create one JS file containing the code from all the modules in the correct order. The final bundled JS file is then served in the HTML file.
 
 ## The main concepts of Webpack
